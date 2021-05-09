@@ -1,0 +1,59 @@
+body {
+  margin-top: 10px;
+  font-family: "roboto";
+}
+.navbar-brand {
+  height: 50px;
+  margin-left: 0px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+main {
+  margin-top: 60px;
+}
+.form-control {
+  height: 30px;
+  margin-top: 10px;
+}
+#basic-addon2 {
+  height: 30px;
+  margin-top: 10px;
+}
+.mic {
+  margin-top: 12px;
+}
+
+.hr1 {
+  margin-top: 60px;
+  margin-left: 250px;
+  margin-right: 10px;
+}
+.onglets {
+  text-align: right;
+  margin-right: 0;
+  margin-top: 50px;
+  align-content: center;
+}
+
+.barre .nav-item a:hover {
+  background-color: gray;
+}
+
+.menu {
+  position: relative;
+  margin-top: -60px;
+}
+.chips .btn {
+  border-radius: 50px;
+}
+.chips .btn:hover {
+  background-color: silver;
+}
+.press {
+  padding-left: 10px;
+}
+.log {
+  border-radius: 100%;
+}
